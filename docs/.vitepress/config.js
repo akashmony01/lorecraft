@@ -1,6 +1,6 @@
 export default {
     base: '/lorecraft/',
-    
+
     themeConfig: {
         logo: '/assets/images/logo.png',
         siteTitle: 'Lorecraft',
@@ -42,7 +42,7 @@ export default {
                     { text: 'Home', link: '/team/' },
                     { text: 'Team Page', link: '/team/team-page' },
                 ]
-            },
+            }, 
             {
                 text: 'Integreation',
                 collapsible: true,

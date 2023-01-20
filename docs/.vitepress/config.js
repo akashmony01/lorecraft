@@ -1,4 +1,6 @@
 export default {
+    base: '/lorecraft/',
+
     themeConfig: {
         logo: '/assets/images/logo.png',
         siteTitle: 'Lorecraft',

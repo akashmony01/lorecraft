@@ -9,7 +9,7 @@
     "docs:build": "vitepress build docs",
     "docs:preview": "vitepress preview docs"
   },
-  "author": "",
+  "author": "akashmony01 <akashmonya88@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "autoprefixer": "^10.4.13",
@@ -22,5 +22,6 @@
       "tailwindcss": {},
       "autoprefixer": {}
     }
-  }
+  },
+  "repository": "git@github.com:akashmony01/lorecraft.git"
 }
